@@ -39,6 +39,8 @@ LIMIT 10;
 ```
 </details>
 
+### **Results and Insights**
+
 <details>
 
 <summary style="font-size: 1.em;">click for <span style="font-size: 1.15em;">Results</span></summary>
