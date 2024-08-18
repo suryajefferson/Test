@@ -38,6 +38,7 @@ LIMIT 10;
 </details>
 
 <details>
+
 <summary style="font-size: 1.em;">click for <span style="font-size: 1.15em;">Results</span></summary>
 
 | job_id | job_title | salary_year_avg | company | job_location | job_schedule_type | job_posted_date |
