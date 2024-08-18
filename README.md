@@ -12,6 +12,8 @@
 - **Why?** Highlight the top-paying opportunities for *Data Analysts*, offering insights into employment options and location flexibility.
 </details>
 
+### **Code**
+
 <details>
 <summary style="font-size: 1.em;">click for <span style="font-size: 1.45em;font-weight: bold;">Code </span></summary>
 
