@@ -31,6 +31,7 @@ df.sample(2)
 
 
 <div>
+  
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -110,6 +111,7 @@ df.sample(2)
     </tr>
   </tbody>
 </table>
+
 </div>
 
 
