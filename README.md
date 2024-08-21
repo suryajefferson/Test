@@ -1,3 +1,17 @@
+<details>
+  <summary><h3>Click to expand</h3></summary>
+
+  ## Heading 1
+  This is some hidden content that you can reveal by clicking the summary above.
+
+  ### Heading 2
+  More hidden content under a subheading.
+
+</details>
+
+
+
+
 ### Importing Libraries
 
   - `pandas` as `pd` for data manipulation and analysis.
