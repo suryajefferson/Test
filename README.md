@@ -19,13 +19,8 @@ Hello /plain
 <details>
   <summary><h3>Video</h3></summary>
 
-  ## Heading 1
-  This is some hidden content that you can reveal by clicking the summary above.
   [![Video](https://i.ytimg.com/vi_webp/4xOX3FnPtsg/maxresdefault.webp)](https://www.youtube.com/watch?v=4xOX3FnPtsg)
 
-
-  ### Heading 2
-  More hidden content under a subheading.
 
 </details>
 
